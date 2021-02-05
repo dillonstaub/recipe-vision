@@ -9,3 +9,4 @@ EMNIST Dataset: https://www.nist.gov/itl/products-and-services/emnist-dataset
 
 Tesseract is an open-source OCR engine originally developed by HP and currently maintained by Google. In Python, pytesseract (https://pypi.org/project/pytesseract/) is a wrapper which allows you to use the Tesseract OCR engine. It provides out-of-the-box functionality for character recognition in images; however, it is not optimized for handwritten character recognition. 
 
+PyTorch was used with the EMNIST data set for handwritten character classification. 

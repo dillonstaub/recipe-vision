@@ -1,5 +1,5 @@
 # recipe-vision
-A project using computer vision techniques to recognize written and typed recipes 
+A project using computer vision techniques to recognize written and typed recipes. The idea originated because recipes are often scattered across websites, notecards from family & friends, and various cookbooks. 
 
 This problem is challenging due to the varied nature of recipe formats. For typed recipes, optical character recognition (OCR) techniques have achieved oustanding results on standard fonts; however, written characters pose a more difficult challenge. 
 
